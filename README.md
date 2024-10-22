@@ -1,5 +1,5 @@
 
-# Projto Advantage Shopping
+# Projeto Advantage Shopping
 
 Repositório para disponibilizar automações do Caso Advantage Shopping
 
